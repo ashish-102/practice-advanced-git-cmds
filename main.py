@@ -6,3 +6,4 @@ print(a+b)
 for i in range(10):
     print(i)
 
+print("this is a sample code")
